@@ -1,9 +1,0 @@
-{
-  "name": "Nail Price Calculator",
-  "short_name": "Nail Pricer",
-  "start_url": "./",
-  "scope": "./",
-  "display": "standalone",
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff"
-}
